@@ -37,14 +37,6 @@ Possuo experiência na construção de sistemas completos, utilizando Node.js, P
 
 ---
 
-# ⚡ Tecnologias Principais
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,nodejs, react,nextjs,tailwind&perline=8" />
-</div>
-
----
-
 # 🛠 Arquitetura & Desenvolvimento
 
 <div align="center">
