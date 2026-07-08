@@ -122,10 +122,10 @@ Possuo experiência na construção de sistemas completos, utilizando Node.js, P
 
 ---
 
-# 📚 Linguagens
+# 📚 Linguagens usadas na Faculdade
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,php,c,cs&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,php,c,cs&perline=8" />
 </div>
 
 ---
