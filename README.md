@@ -2,10 +2,10 @@
 
 # Ana Karolyna
 
-### Desenvolvedora Full Stack • Engenheira de Software
+### Desenvolvedora Full Stack • Estudante de Sistemas de Informação
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2900&pause=1000&color=pink&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+%7C+Node.js+%7C+%7C"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2900&pause=1000&color=#FFC0CB&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+%7C+Node.js+%7C+%7C"
   alt="Typing SVG"
 />
 <br/>
@@ -23,7 +23,7 @@
 
 # Sobre
 
-Desenvolvedor Full Stack com experiência no desenvolvimento de APIs, microsserviços e aplicações web modernas e escaláveis.
+Desenvolvedora Full Stack com experiência no desenvolvimento de APIs e aplicações web modernas.
 Tenho foco em:
 
 - Desenvolvimento Full Stack
@@ -57,7 +57,7 @@ Possuo experiência na construção de sistemas completos, utilizando Node.js, P
 
 ---
 
-# 🗄️ Banco de Dados, ORM & Cloud
+# 🗄️ Banco de Dados, ORM
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=8" />
