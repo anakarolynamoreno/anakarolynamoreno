@@ -5,7 +5,7 @@
 ### Desenvolvedora Full Stack • Estudante de Sistemas de Informação
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2900&pause=1000&color=#FFC0CB&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+%7C+Node.js+%7C+%7C"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2900&pause=1000&color=PINK&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+%7C+Node.js+%7C+%7C"
   alt="Typing SVG"
 />
 <br/>
